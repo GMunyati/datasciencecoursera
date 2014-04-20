@@ -1,4 +1,9 @@
-datasciencecoursera
-===================
+$ mkdir ~ /datasciencecoursera
 
-repo for course material
+$ cd ~/datasciencecoursera
+
+$ git init
+
+## this is a markdown file
+
+$ touch HelloWorld
